@@ -1,6 +1,6 @@
 namespace MatriculaFinanceiraService;
 
-public class MensalidadeService
+public class CalculoMensalidade
 {
     public decimal CalcularValorMensalidade(decimal valorBase, int diaPagamento, bool eBolsista)
     {
